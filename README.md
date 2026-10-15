@@ -1,6 +1,6 @@
 # Hi there, I'm Mason Hazel
 
-## current work
+## Current work
 - I'm learning cyber security fundamentals and best practices.
 
 
